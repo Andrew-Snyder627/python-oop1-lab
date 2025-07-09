@@ -36,8 +36,16 @@ This lab demonstrates fundamental object-oriented programming principles in Pyth
 
 ## Screenshots
 
+### Passing Tests
+
 ![Tests Passing](screenshots/passing-tests.png)
+
+### Book Class
+
 ![Book Class](screenshots/book-class.png)
+
+### Coffee Class
+
 ![Coffee Class](screenshots/coffee-class.png)
 
 ## Tools & Resources
